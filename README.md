@@ -1,7 +1,8 @@
-# Welcome to Md Shaad Mahmud's Research Website
+# Welcome to Ryan's and Bryan's, Autonomous Navigating and Balancing Robot page
 
-## About Me
-I am an Associate Professor at the University of New Hampshire, specializing in wearable health technology, edge machine learning, and advanced sensor development. My research is dedicated to addressing critical health and environmental challenges by designing innovative solutions that combine cutting-edge technology with practical applications.
+## About Us
+we are 2 Engineering students from the University of New Hampshire studying Computer Engineering and Electrical Engineering respectively. We both have experience with various robot systems and programs. 
+
 
 ## Research Focus
 - **Wearable Sensors**: Development of unobtrusive, smart textile sensors for health monitoring, focusing on lymphedema detection and other conditions.
